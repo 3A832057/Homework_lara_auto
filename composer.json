@@ -1,0 +1,23 @@
+{
+    "name": "ncut/auto",
+    "description": "ads",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\Auto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "3A832057",
+            "email": "qoooppadsl@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+
+        }
+    }
+
+}
